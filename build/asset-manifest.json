@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.eef454b4.js",
+    "static/js/953.5791d6cf.chunk.js": "/static/js/953.5791d6cf.chunk.js",
+    "static/js/938.8cba97a1.chunk.js": "/static/js/938.8cba97a1.chunk.js",
+    "static/js/34.8948bdfd.chunk.js": "/static/js/34.8948bdfd.chunk.js",
+    "static/js/651.68448165.chunk.js": "/static/js/651.68448165.chunk.js",
+    "static/js/237.b480c323.chunk.js": "/static/js/237.b480c323.chunk.js",
+    "static/media/proximaNovaBold.woff": "/static/media/proximaNovaBold.b80431ced4e268f4ff13.woff",
+    "static/media/proximaNovaRegularItalic.woff": "/static/media/proximaNovaRegularItalic.628181d9496d6ccc3dd7.woff",
+    "static/media/proximaNovaRegular.woff": "/static/media/proximaNovaRegular.772b9057a3374df8ff95.woff",
+    "static/media/proximaNovaSemibold.woff": "/static/media/proximaNovaSemibold.099fe8eedf328e3045ca.woff",
+    "static/media/proximaNovaLight.woff": "/static/media/proximaNovaLight.a712bfeee3e128dcc2ec.woff",
+    "static/media/proximaNovaRegularItalic.woff2": "/static/media/proximaNovaRegularItalic.bf950b5f53bd5586f55f.woff2",
+    "static/media/proximaNovaLight.woff2": "/static/media/proximaNovaLight.2b5c59f8e4a981137caa.woff2",
+    "static/media/proximaNovaRegular.woff2": "/static/media/proximaNovaRegular.6e4e8cc969c769c98818.woff2",
+    "static/media/proximaNovaBold.woff2": "/static/media/proximaNovaBold.03d574a6a421731271fe.woff2",
+    "static/media/proximaNovaSemibold.woff2": "/static/media/proximaNovaSemibold.466f7758ab2f9fe0626b.woff2",
+    "index.html": "/index.html",
+    "main.eef454b4.js.map": "/static/js/main.eef454b4.js.map",
+    "953.5791d6cf.chunk.js.map": "/static/js/953.5791d6cf.chunk.js.map",
+    "938.8cba97a1.chunk.js.map": "/static/js/938.8cba97a1.chunk.js.map",
+    "34.8948bdfd.chunk.js.map": "/static/js/34.8948bdfd.chunk.js.map",
+    "651.68448165.chunk.js.map": "/static/js/651.68448165.chunk.js.map",
+    "237.b480c323.chunk.js.map": "/static/js/237.b480c323.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eef454b4.js"
+  ]
+}
